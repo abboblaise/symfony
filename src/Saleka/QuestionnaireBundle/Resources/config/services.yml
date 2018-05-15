@@ -1,0 +1,4 @@
+services:
+#    saleka_questionnaire.example:
+#        class: Saleka\QuestionnaireBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

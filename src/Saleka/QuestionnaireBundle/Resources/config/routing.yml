@@ -1,0 +1,9 @@
+saleka_questionnaire_homepage:
+    path:     /
+    defaults: { _controller: SalekaQuestionnaireBundle:Default:index }
+
+saleka_questionnaire_questions:
+    path:     /questions
+    defaults: { _controller: SalekaQuestionnaireBundle:Default:questions }
+    
+

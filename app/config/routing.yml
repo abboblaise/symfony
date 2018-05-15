@@ -1,0 +1,7 @@
+saleka_questionnaire:
+    resource: "@SalekaQuestionnaireBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
